@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-ubuntu:arm64v8-noble
+FROM ghcr.io/linuxserver-playground/baseimage-ubuntu:arm64v8-noble
 
 # set version label
 ARG BUILD_DATE
