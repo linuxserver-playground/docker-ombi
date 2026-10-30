@@ -15,6 +15,9 @@ upstream:
     type: github_release
     repo: Ombi-app/Ombi
     prerelease: true
+    require_assets:
+      - asset: '^linux\-x64\.tar\.gz$'
+      - asset: '^linux\-arm64\.tar\.gz$'
   notes:
     type: github_release
     repo: Ombi-app/Ombi
