@@ -58,7 +58,7 @@ Nito.Disposables                                        2.2.1                   
 Npgsql                                                  8.0.0                              dotnet  
 Npgsql.EntityFrameworkCore.PostgreSQL                   8.0.0                              dotnet  
 Octokit                                                 3.0.0                              dotnet  
-Ombi                                                    4.60.18                            dotnet  
+Ombi                                                    4.60.19                            dotnet  
 Polly                                                   7.2.3                              dotnet  
 Pomelo.EntityFrameworkCore.MySql                        8.0.2                              dotnet  
 Quartz                                                  3.6.2                              dotnet  
